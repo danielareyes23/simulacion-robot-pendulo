@@ -7,7 +7,7 @@ Simulación de la dinámica de un robot péndulo simple de 1 grado de libertad i
 
 ## Resultados obtenidos
 
-![Gráficas de simulación](images/resultados.png)
+![Gráficas de simulación](resultados.png)
 
 ## Características
 
@@ -21,3 +21,4 @@ Simulación de la dinámica de un robot péndulo simple de 1 grado de libertad i
 ```bash
 
 pip install -r requirements.txt
+
